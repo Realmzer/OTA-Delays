@@ -1,4 +1,4 @@
-v# OTA-Delays
+# OTA-Delays
 A repository that publically hosts OTA delays.
  
 iOS 18.1.1: [https://github.com/Realmzer/OTA-Delays/raw/refs/heads/main/18.1.1.mobileconfig](https://github.com/Realmzer/OTA-Delays/raw/refs/heads/main/18.1.1.mobileconfig) | Expires: 3/10/2025 8:00:00 PM
